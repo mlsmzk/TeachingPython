@@ -3,11 +3,11 @@ Intake survey for Software Design.
 """
 
 # How do you want us to call you? (Optionally include a pronunciation guide.)
-preferred_name = ""
+preferred_name = "Fernando Rimoli"
 pronunciation = ""
 
 # What are your pronouns? (Optional)
-pronouns = ""
+pronouns = "He/Him"
 
 # Define your programming experience as of this moment, on a scale of 1 to 5.
 # Here is what each number indicates:
@@ -16,17 +16,17 @@ pronouns = ""
 #   3 - Written code within the last year
 #   4 - Written a fair amount of code (e.g., a full program)
 #   5 - Done a small programming project (100-500 lines of code)
-previous_programming_experience = 0
+previous_programming_experience = 1
 
 # If necessary, please explain your programming experience.
 previous_programming_description = ""
 
 # Define your programming experience in Python as of this moment, on a scale of
 # 1 to 5. You can use the same description for each number as above.
-previous_python_experience = 0
+previous_python_experience = 1
 
 # If necessary, please explain your Python experience.
-previous_python_description = ""
+previous_python_description = "I watched some TikToks"
 
 # Define your experience with the command line and Git as of this moment, on a
 # scale of 1 to 5. Here is what each number indicates:
@@ -35,15 +35,16 @@ previous_python_description = ""
 #   3 - Basic experience with both, AND intermediate experience with one
 #   4 - Intermediate experience with both
 #   5 - Intermediate experience with both, AND advanced experience with one
-previous_tools_experience = 0
+previous_tools_experience = 1
 
 # If necessary, please explain your experience with the command line and Git.
 previous_tools_description = ""
 
 # What are your learning goals for this course? Please list at least one.
-learning_goals = [
-]
+learning_goals = ["Learn how to code like Miles," \
+                  " learn how to code better than Miles"
+                  ]
 
 # What are you concerned about in this course? Please list at least one.
-concerns = [
-]
+concerns = ["Maybe I'll get too good and Miles won't talk to me anymore."
+            ]
