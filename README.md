@@ -1,2 +1,1 @@
-# TeachingPython
-For nand
+# softdes-2022-01
